@@ -1,5 +1,5 @@
-# BC COVID-19 Analytics
-Visualization and prediction models run on COVID-19 cases in BC updated daily.
+# BC COVID-19 Visualizations
+Visualization models run on COVID-19 cases in BC updated daily.
 
 Data extracted manually from [BC Government news releases](http://www.bccdc.ca/about/news-stories/stories/2020/information-on-novel-coronavirus). 
 
